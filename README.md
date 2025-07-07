@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CodeByte</h1>
+<h1 align="center">Hi 👋, I'm b1adezz</h1>
 <h3 align="center">A Passionate Developer Focused on Bot Development</h3>
 
 <p align="left">
