@@ -7,11 +7,11 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Discord bots, Ubisoft APIs, and Minecraft projects**
-- 🌱 I’m currently learning **Rust, C++, and advanced backend development**
-- 👯 I’m looking to collaborate on **open-source bots or game-related APIs**
+- 🔭 I’m currently working on **A Discord Management Bot Called SentinelShield**
+- 🌱 I’m currently learning **Rust, Lua, and advancing in my backend development skills**
+- 👯 I’m looking to collaborate on **websites & game developement apps**
 - 💬 Ask me about **bot development, Python, or building APIs**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **b1adezdeveloping@gmail.com**
 - ⚡ Fun fact: I automate *everything*
 
 <h3 align="left">Connect with me:</h3>
