@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **A Discord Management Bot Called SentinelShield**
+- 🔭 I’m currently working on **A Discord Management Bot Called SentryShield**
 - 🌱 I’m currently learning **Rust, Lua, and advancing in my backend development skills**
 - 👯 I’m looking to collaborate on **websites & game developement apps**
 - 💬 Ask me about **bot development, Python, or building APIs**
